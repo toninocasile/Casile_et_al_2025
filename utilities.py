@@ -26,8 +26,7 @@ ifps_base_dir = os.path.join(base_dir, 'patients_data', 'IFP_recordings')
 electrodes_location_dir = os.path.join(base_dir, 'patients_data', 'electrode locations')
 # figures_dir = os.path.join(base_dir, 'figures')
 figures_dir = base_dir
-# results_dir = os.path.join(base_dir, 'results')
-results_dir = base_dir
+results_dir = os.path.join(base_dir, 'results')
 patients_info_file = os.path.join(base_dir, 'patients_data', 'PatientInfo.xlsx')
 
 # declare named tuple to return results of the responsivity and selectivity analyses
