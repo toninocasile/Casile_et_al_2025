@@ -9,7 +9,7 @@ To run the Python files you must:
 
 •	download the raw data from https://kreimanlab.com/code/mirc/ and save them into the "patients_data" MAINTAINING their directory tree
 
-•	set, in the file utilities.py the variable base_dir to the root of the directory tree (i.e., the base directory selected above)
+•	in the file utilities.py set the variable base_dir to the root of the directory tree (i.e., the base directory selected above)
 
 • run the code
 
