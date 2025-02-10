@@ -2,11 +2,16 @@
 Python code used for data analyses in Casile et al. (2025), Neural Correlates of minimal recognizable configuration in the human brain; Cell Reports
 
 To run the Python files you must:
+
 •	uncompress the downloaded files MAINTAINING the existing directory tree
+
 •	set, in the file utilities.py the variable base_dir to the root of the directory tree
+
 • download the raw data from https://kreimanlab.com/code/mirc/
 
+
 List of Python files
+
 processBehavior.py
 processes behavioral data and produces panels for Figure 1
 
