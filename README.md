@@ -3,11 +3,15 @@ Python code used for data analyses in Casile et al. (2025), Neural Correlates of
 
 To run the Python files you must:
 
-•	uncompress the downloaded files MAINTAINING the existing directory tree
+•	create a base directory with three subdirectories: "code", "patients_data" and "results"
 
-•	set, in the file utilities.py the variable base_dir to the root of the directory tree
+•	download the Python files into the "code" directory
 
-• download the raw data from https://kreimanlab.com/code/mirc/
+•	download the raw data from https://kreimanlab.com/code/mirc/ and save them into the "patients_data" MAINTAINING their directory tree
+
+•	set, in the file utilities.py the variable base_dir to the root of the directory tree (i.e., the base directory selected above)
+
+• run the code
 
 
 List of Python files
